@@ -1,7 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [beellama-v0.1.0-bin-win-cuda-12.4-x64](./beellama-v0.1.0-bin-win-cuda-12.4-x64)
-- [cudart-llama-bin-win-cuda-12.4-x64](./cudart-llama-bin-win-cuda-12.4-x64)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
