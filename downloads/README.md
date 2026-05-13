@@ -1,6 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [dflash-draft-3.6-q8_0](./dflash-draft-3.6-q8_0)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
